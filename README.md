@@ -1,5 +1,13 @@
 # makefile-tips
 
+## detect OS
+TODO: add list of OS names to use in makefile
+```makefile
+ifeq ($(OS),Windows_NT)
+	SHELL = CMD
+endif
+```
+
 ## define a function
 ```makefile
 define command_exists
