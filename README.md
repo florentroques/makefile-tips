@@ -28,3 +28,9 @@ define commands_exist
 endef
 ```
 source: https://stackoverflow.com/a/25668869/1152843
+
+makefile documentation systems
+https://www.cmcrossroads.com/print/article/self-documenting-makefiles
+		
+https://github.com/simonmichael/hledger/commit/1b912387fab8384619cc037731df0ba971c16de7
+
